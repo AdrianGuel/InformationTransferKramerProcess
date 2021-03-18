@@ -1,5 +1,4 @@
 %Information transfer for harmonically bound particle
-% when \omega\rightarrow 0 or free brownian motion
 %Adrian J Guel C
 %January 2021
 
